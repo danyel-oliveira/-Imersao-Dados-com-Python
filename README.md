@@ -5,6 +5,16 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+## 📊 **GitHub Analytics & Programming Languages**
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danyel-oliveira&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danyel-oliveira&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+</div>
+
 > **Projeto completo de análise de dados desenvolvido durante imersão intensiva em Data Science, demonstrando competências em manipulação de dados, análise estatística e visualização de insights de negócio.**
 
 ## 🎯 **Competências Demonstradas**
