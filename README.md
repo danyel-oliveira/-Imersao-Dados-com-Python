@@ -136,6 +136,6 @@ jupyter notebook
 
 > **"Transformando dados em decisões estratégicas através de análises profissionais e insights acionáveis para o crescimento do negócio."**
 
-### 🎓 **Formação:** Imersão Dados com Python - Alura | **Ano:** 2024
+### 🎓 **Formação:** Imersão Dados com Python - Alura | **Ano:** Agosoto de 2025
 
 **#DataScience #Python #Analytics #BusinessIntelligence #DataVisualization #Alura**
