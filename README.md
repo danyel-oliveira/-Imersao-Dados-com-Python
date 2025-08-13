@@ -1,9 +1,11 @@
 # 📊 Data Science Portfolio - Python Analytics Project
+### 🎓 Desenvolvido durante a **Imersão Dados com Python - Alura**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Alura](https://img.shields.io/badge/Alura-0078D4?style=for-the-badge&logo=alura&logoColor=white)
 
 ## 📊 **GitHub Analytics & Programming Languages**
 
@@ -15,7 +17,7 @@
 
 </div>
 
-> **Projeto completo de análise de dados desenvolvido durante imersão intensiva em Data Science, demonstrando competências em manipulação de dados, análise estatística e visualização de insights de negócio.**
+> **Projeto completo de análise de dados desenvolvido durante a Imersão Dados com Python da Alura, uma das principais escolas de tecnologia do Brasil. Demonstra competências avançadas em manipulação de dados, análise estatística e visualização de insights de negócio através de metodologia estruturada e hands-on.**
 
 ## 🎯 **Competências Demonstradas**
 
@@ -101,7 +103,13 @@ jupyter notebook
 
 ## 💼 **Sobre o Profissional**
 
-**Analista de Dados** com experiência em transformar dados brutos em insights estratégicos para negócio. Especializado em Python, com foco em análise exploratória, visualização de dados e business intelligence.
+**Analista de Dados** formado pela **Imersão Dados com Python da Alura**, com experiência em transformar dados brutos em insights estratégicos para negócio. Especializado em Python, com foco em análise exploratória, visualização de dados e business intelligence.
+
+### **Formação e Certificação:**
+- 🎓 **Imersão Dados com Python - Alura** (2024)
+- 📊 **5 dias de conteúdo intensivo** em Data Science
+- 🏆 **Metodologia hands-on** com projetos reais
+- ✅ **Certificação** em análise de dados com Python
 
 ### **Expertise Principal:**
 - Análise de dados e estatística aplicada
@@ -128,4 +136,6 @@ jupyter notebook
 
 > **"Transformando dados em decisões estratégicas através de análises profissionais e insights acionáveis para o crescimento do negócio."**
 
-**#DataScience #Python #Analytics #BusinessIntelligence #DataVisualization**
+### 🎓 **Formação:** Imersão Dados com Python - Alura | **Ano:** 2024
+
+**#DataScience #Python #Analytics #BusinessIntelligence #DataVisualization #Alura**
